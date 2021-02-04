@@ -1,0 +1,560 @@
+# EXTM3U
+#EXTINF: -1 tvg-logo = "file: ///storage/emulated/0/Download/768px-JR_JL_line_symbol.svg.png" group-title = " eldukedelasapuesta", eldukedelasapuesta 
+
+
+#EXTINF:-1 group-title="Lista 03",A&E
+https://blackghost.live/play/megapro-202.php?c=1|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",AXN
+https://blackghost.live/play/megapro-202.php?c=2|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Animal Planet
+https://blackghost.live/play/megapro-202.php?c=3|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Az Corazon
+https://blackghost.live/play/megapro-202.php?c=4|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Az Mundo
+https://blackghost.live/play/megapro-202.php?c=5|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",AMC
+https://blackghost.live/play/megapro-202.php?c=6|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Antena 3 Internacional
+https://blackghost.live/play/megapro-202.php?c=7|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",BBC World
+https://blackghost.live/play/megapro-202.php?c=8|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Baby TV
+https://blackghost.live/play/megapro-202.php?c=9|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Bloomberg
+https://blackghost.live/play/megapro-202.php?c=10|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",CNN Espanol
+https://blackghost.live/play/megapro-202.php?c=11|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",CNN Internacional
+https://blackghost.live/play/megapro-202.php?c=12|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Cable Noticias
+https://blackghost.live/play/megapro-202.php?c=13|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Canal Claro
+https://blackghost.live/play/megapro-202.php?c=14|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Caracol
+https://blackghost.live/play/megapro-202.php?c=16|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Caracol Internacional
+https://blackghost.live/play/megapro-202.php?c=17|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Cartoon Network
+https://blackghost.live/play/megapro-202.php?c=18|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Cine Canal
+https://blackghost.live/play/megapro-202.php?c=19|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Cine Latino
+https://blackghost.live/play/megapro-202.php?c=20|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Cinema Dinamita
+https://blackghost.live/play/megapro-202.php?c=21|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Cinema Plus
+https://blackghost.live/play/megapro-202.php?c=22|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",City TV
+https://blackghost.live/play/megapro-202.php?c=23|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Claro Cinema
+https://blackghost.live/play/megapro-202.php?c=24|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Claro Music 1
+https://blackghost.live/play/megapro-202.php?c=25|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Claro Music 2
+https://blackghost.live/play/megapro-202.php?c=26|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Claro Sports
+https://blackghost.live/play/megapro-202.php?c=27|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Claro Sports Latinoamerica
+https://blackghost.live/play/megapro-202.php?c=28|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Comedy Central
+https://blackghost.live/play/megapro-202.php?c=29|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",DHE
+https://blackghost.live/play/megapro-202.php?c=31|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",DW
+https://blackghost.live/play/megapro-202.php?c=32|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Concert Channel
+https://blackghost.live/play/megapro-202.php?c=30|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",DW America
+https://blackghost.live/play/megapro-202.php?c=33|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",De Pelicula Plus
+https://blackghost.live/play/megapro-202.php?c=34|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Discovery Channel
+https://blackghost.live/play/megapro-202.php?c=36|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Discovery Home and Health
+https://blackghost.live/play/megapro-202.php?c=37|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Discovery Kids
+https://blackghost.live/play/megapro-202.php?c=38|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Discovery Science
+https://blackghost.live/play/megapro-202.php?c=39|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Discovery Turbo
+https://blackghost.live/play/megapro-202.php?c=41|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Discovery World
+https://blackghost.live/play/megapro-202.php?c=42|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Discovery Theater
+https://blackghost.live/play/megapro-202.php?c=40|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Disney
+https://blackghost.live/play/megapro-202.php?c=43|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Disney JR
+https://blackghost.live/play/megapro-202.php?c=44|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Disney XD
+https://blackghost.live/play/megapro-202.php?c=45|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",E !
+https://blackghost.live/play/megapro-202.php?c=46|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",El Gourmet
+https://blackghost.live/play/megapro-202.php?c=47|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Mas Chic
+https://blackghost.live/play/megapro-202.php?c=48|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MTV Hits
+https://blackghost.live/play/megapro-202.php?c=49|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MTV
+https://blackghost.live/play/megapro-202.php?c=50|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Lifetime
+https://blackghost.live/play/megapro-202.php?c=51|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Investigation Discovery
+https://blackghost.live/play/megapro-202.php?c=52|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",I.Sat
+https://blackghost.live/play/megapro-202.php?c=53|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Hola TV
+https://blackghost.live/play/megapro-202.php?c=54|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",H2
+https://blackghost.live/play/megapro-202.php?c=55|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",History Channel
+https://blackghost.live/play/megapro-202.php?c=56|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",HTV
+https://blackghost.live/play/megapro-202.php?c=57|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",HLN
+https://blackghost.live/play/megapro-202.php?c=58|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",HBO plus
+https://blackghost.live/play/megapro-202.php?c=59|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",HBO Subtitulado
+https://blackghost.live/play/megapro-202.php?c=60|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",HBO Signature
+https://blackghost.live/play/megapro-202.php?c=61|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",HBO Family
+https://blackghost.live/play/megapro-202.php?c=62|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",HBO 2
+https://blackghost.live/play/megapro-202.php?c=63|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",HBO
+https://blackghost.live/play/megapro-202.php?c=64|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Golf Channel
+https://blackghost.live/play/megapro-202.php?c=65|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Golden Premium
+https://blackghost.live/play/megapro-202.php?c=66|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Golden
+https://blackghost.live/play/megapro-202.php?c=67|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Glitz
+https://blackghost.live/play/megapro-202.php?c=68|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fx Movie Mex
+https://blackghost.live/play/megapro-202.php?c=69|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",France 24
+https://blackghost.live/play/megapro-202.php?c=71|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fox Sports 3 Sur
+https://blackghost.live/play/megapro-202.php?c=72|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fox Sports 2 MX
+https://blackghost.live/play/megapro-202.php?c=74|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fox Sports 2 Sur
+https://blackghost.live/play/megapro-202.php?c=75|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fox Sports 1 Sur
+https://blackghost.live/play/megapro-202.php?c=76|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fox Sports 1 MX
+https://blackghost.live/play/megapro-202.php?c=77|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fox Premium Series Subtitulado
+https://blackghost.live/play/megapro-202.php?c=78|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fox Premium Series
+https://blackghost.live/play/megapro-202.php?c=79|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fox News
+https://blackghost.live/play/megapro-202.php?c=80|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fox Premium Movies
+https://blackghost.live/play/megapro-202.php?c=81|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fox Life Mex
+https://blackghost.live/play/megapro-202.php?c=82|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fox Life
+https://blackghost.live/play/megapro-202.php?c=83|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fox Premium Family
+https://blackghost.live/play/megapro-202.php?c=84|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fox Premium Comedy
+https://blackghost.live/play/megapro-202.php?c=85|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fox Premium Classics
+https://blackghost.live/play/megapro-202.php?c=86|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fox Cinema Subtitulado
+https://blackghost.live/play/megapro-202.php?c=87|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fox Premium Cinema
+https://blackghost.live/play/megapro-202.php?c=88|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fox Premium Action MX
+https://blackghost.live/play/megapro-202.php?c=89|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fox Premium Action
+https://blackghost.live/play/megapro-202.php?c=90|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fox
+https://blackghost.live/play/megapro-202.php?c=91|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",FX
+https://blackghost.live/play/megapro-202.php?c=92|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Euro Channel
+https://blackghost.live/play/megapro-202.php?c=93|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Espn Plus Sur
+https://blackghost.live/play/megapro-202.php?c=94|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Espn 3 Sur
+https://blackghost.live/play/megapro-202.php?c=95|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Espn 2 Sur
+https://blackghost.live/play/megapro-202.php?c=96|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Espn 1 Sur
+https://blackghost.live/play/megapro-202.php?c=97|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Win Sports
+https://blackghost.live/play/megapro-202.php?c=98|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Warner Channel
+https://blackghost.live/play/megapro-202.php?c=99|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Vh1 Classic
+https://blackghost.live/play/megapro-202.php?c=100|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Vh1
+https://blackghost.live/play/megapro-202.php?c=101|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Univision
+https://blackghost.live/play/megapro-202.php?c=102|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Universal Channel
+https://blackghost.live/play/megapro-202.php?c=103|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Unicable
+https://blackghost.live/play/megapro-202.php?c=104|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Tru TV
+https://blackghost.live/play/megapro-202.php?c=105|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Tve
+https://blackghost.live/play/megapro-202.php?c=106|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Tooncast
+https://blackghost.live/play/megapro-202.php?c=107|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Telemundo
+https://blackghost.live/play/megapro-202.php?c=108|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",TNT Series
+https://blackghost.live/play/megapro-202.php?c=109|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",TNT
+https://blackghost.live/play/megapro-202.php?c=110|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",TLC
+https://blackghost.live/play/megapro-202.php?c=111|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",TCM
+https://blackghost.live/play/megapro-202.php?c=112|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",TBS
+https://blackghost.live/play/megapro-202.php?c=113|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Sundance Channel
+https://blackghost.live/play/megapro-202.php?c=114|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Studio Universal
+https://blackghost.live/play/megapro-202.php?c=115|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Space
+https://blackghost.live/play/megapro-202.php?c=116|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Sony
+https://blackghost.live/play/megapro-202.php?c=117|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",RCN Telenovelas
+https://blackghost.live/play/megapro-202.php?c=118|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Pasiones
+https://blackghost.live/play/megapro-202.php?c=119|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Paramount Channel
+https://blackghost.live/play/megapro-202.php?c=120|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Nickelodeon
+https://blackghost.live/play/megapro-202.php?c=121|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Nick Jr
+https://blackghost.live/play/megapro-202.php?c=122|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Nick 2
+https://blackghost.live/play/megapro-202.php?c=123|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Nat Geo Wild
+https://blackghost.live/play/megapro-202.php?c=124|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Nat Geo Mex
+https://blackghost.live/play/megapro-202.php?c=125|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Nat Geo Kids Mex
+https://blackghost.live/play/megapro-202.php?c=126|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Nat Geo Kids
+https://blackghost.live/play/megapro-202.php?c=127|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",National Geographic Channel
+https://blackghost.live/play/megapro-202.php?c=128|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Multipremier
+https://blackghost.live/play/megapro-202.php?c=129|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Mtv Live
+https://blackghost.live/play/megapro-202.php?c=130|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Max Up
+https://blackghost.live/play/megapro-202.php?c=131|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Max Prime
+https://blackghost.live/play/megapro-202.php?c=132|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Max
+https://blackghost.live/play/megapro-202.php?c=133|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Azteca 7
+https://blackghost.live/play/megapro-202.php?c=134|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Azteca Uno
+https://blackghost.live/play/megapro-202.php?c=135|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | ADN 40
+https://blackghost.live/play/megapro-202.php?c=136|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Az Clic
+https://blackghost.live/play/megapro-202.php?c=139|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Az Cinema
+https://blackghost.live/play/megapro-202.php?c=140|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | A3 Series
+https://blackghost.live/play/megapro-202.php?c=141|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Antena 3
+https://blackghost.live/play/megapro-202.php?c=142|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Aym Sports
+https://blackghost.live/play/megapro-202.php?c=143|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Canal 5
+https://blackghost.live/play/megapro-202.php?c=144|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Las Estrellas
+https://blackghost.live/play/megapro-202.php?c=145|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Galatv
+https://blackghost.live/play/megapro-202.php?c=146|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Foro TV
+https://blackghost.live/play/megapro-202.php?c=147|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Europa Europa
+https://blackghost.live/play/megapro-202.php?c=148|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Distrito Comedia
+https://blackghost.live/play/megapro-202.php?c=149|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Multimedios
+https://blackghost.live/play/megapro-202.php?c=150|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Televisa MTY
+https://blackghost.live/play/megapro-202.php?c=151|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Garage TV
+https://blackghost.live/play/megapro-202.php?c=152|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Congreso de la Unión
+https://blackghost.live/play/megapro-202.php?c=153|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Imagen TV
+https://blackghost.live/play/megapro-202.php?c=154|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Latin American Sports
+https://blackghost.live/play/megapro-202.php?c=155|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Teleritmo
+https://blackghost.live/play/megapro-202.php?c=156|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Milenio TV
+https://blackghost.live/play/megapro-202.php?c=157|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Espn Sec Network
+https://blackghost.live/play/megapro-202.php?c=158|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Espn U
+https://blackghost.live/play/megapro-202.php?c=159|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Espn Plus
+https://blackghost.live/play/megapro-202.php?c=160|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Espn
+https://blackghost.live/play/megapro-202.php?c=161|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Espn 2
+https://blackghost.live/play/megapro-202.php?c=162|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Fox Sports 3
+https://blackghost.live/play/megapro-202.php?c=165|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | RT Noticias
+https://blackghost.live/play/megapro-202.php?c=166|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Espn 3
+https://blackghost.live/play/megapro-202.php?c=167|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | RT en Espanol
+https://blackghost.live/play/megapro-202.php?c=168|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Tl Novelas
+https://blackghost.live/play/megapro-202.php?c=169|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | A Plus
+https://blackghost.live/play/megapro-202.php?c=170|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Cinemax
+https://blackghost.live/play/megapro-202.php?c=171|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Nicktoons
+https://blackghost.live/play/megapro-202.php?c=172|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Bandamax
+https://blackghost.live/play/megapro-202.php?c=173|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Food Network
+https://blackghost.live/play/megapro-202.php?c=174|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Televisa Puebla
+https://blackghost.live/play/megapro-202.php?c=175|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Boomerang
+https://blackghost.live/play/megapro-202.php?c=176|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Ingenio TV
+https://blackghost.live/play/megapro-202.php?c=177|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Ritmoson
+https://blackghost.live/play/megapro-202.php?c=178|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Telehit
+https://blackghost.live/play/megapro-202.php?c=179|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | TVC
+https://blackghost.live/play/megapro-202.php?c=180|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | TVC Deportes
+https://blackghost.live/play/megapro-202.php?c=181|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Telefórmula
+https://blackghost.live/play/megapro-202.php?c=182|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Golden
+https://blackghost.live/play/megapro-202.php?c=183|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Golden Edge
+https://blackghost.live/play/megapro-202.php?c=184|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Bein Sports
+https://blackghost.live/play/megapro-202.php?c=185|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Directv Sports Plus
+https://blackghost.live/play/megapro-202.php?c=186|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Directv Sports
+https://blackghost.live/play/megapro-202.php?c=187|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Directv Sports 2
+https://blackghost.live/play/megapro-202.php?c=188|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Univision UDN
+https://blackghost.live/play/megapro-202.php?c=189|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Univision TDN
+https://blackghost.live/play/megapro-202.php?c=190|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",PE | TV Peru
+https://blackghost.live/play/megapro-202.php?c=191|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",PE | Peru Magico
+https://blackghost.live/play/megapro-202.php?c=192|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",PE | Panamericana
+https://blackghost.live/play/megapro-202.php?c=193|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",PE | Movistar Deportes
+https://blackghost.live/play/megapro-202.php?c=194|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",PE | Gol Peru
+https://blackghost.live/play/megapro-202.php?c=195|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",PE | Frecuencia Latina
+https://blackghost.live/play/megapro-202.php?c=196|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",COL | Trece
+https://blackghost.live/play/megapro-202.php?c=198|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",COL | RCN Internacional
+https://blackghost.live/play/megapro-202.php?c=200|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",COL | RCN
+https://blackghost.live/play/megapro-202.php?c=201|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",COL | NTN24
+https://blackghost.live/play/megapro-202.php?c=202|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",COL | Caracol 2
+https://blackghost.live/play/megapro-202.php?c=204|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",COL | Caracol
+https://blackghost.live/play/megapro-202.php?c=205|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",COL | Cable Noticias
+https://blackghost.live/play/megapro-202.php?c=210|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",CL | Fox Sports
+https://blackghost.live/play/megapro-202.php?c=211|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",CL | Chilevision
+https://blackghost.live/play/megapro-202.php?c=212|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",CL | CDO Premium
+https://blackghost.live/play/megapro-202.php?c=213|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",CL | CDO Basico
+https://blackghost.live/play/megapro-202.php?c=214|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",CL | CDF Premium
+https://blackghost.live/play/megapro-202.php?c=215|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",CL | CDF Basico
+https://blackghost.live/play/megapro-202.php?c=216|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",CL | CDF
+https://blackghost.live/play/megapro-202.php?c=217|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",AR | TNT Sports
+https://blackghost.live/play/megapro-202.php?c=219|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Wobi
+https://blackghost.live/play/megapro-202.php?c=337|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",VH1 HD
+https://blackghost.live/play/megapro-202.php?c=336|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Start TVE
+https://blackghost.live/play/megapro-202.php?c=335|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",TV Mas
+https://blackghost.live/play/megapro-202.php?c=334|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MVS
+https://blackghost.live/play/megapro-202.php?c=333|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Golden Plus
+https://blackghost.live/play/megapro-202.php?c=327|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Discovery Civilization
+
+https://blackghost.live/play/megapro-202.php?c=325|User-Agent=tpro
+
+#EXTINF:-1 group-title="Lista 03",De Pelicula
+https://blackghost.live/play/megapro-202.php?c=324|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Gol TV Internacional
+https://blackghost.live/play/megapro-202.php?c=338|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Tigo Sports 1
+https://blackghost.live/play/megapro-202.php?c=339|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Tigo Sports 2
+https://blackghost.live/play/megapro-202.php?c=340|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Tigo Sports 3
+https://blackghost.live/play/megapro-202.php?c=341|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Estrella tv
+https://blackghost.live/play/megapro-202.php?c=342|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Bein sports ñ T
+https://blackghost.live/play/megapro-202.php?c=343|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Euro Sports 1
+https://blackghost.live/play/megapro-202.php?c=344|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Euro Sports 2
+https://blackghost.live/play/megapro-202.php?c=345|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fightbox
+https://blackghost.live/play/megapro-202.php?c=346|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Fight Time
+https://blackghost.live/play/megapro-202.php?c=347|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MLB Network
+https://blackghost.live/play/megapro-202.php?c=349|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Motorsports TV
+https://blackghost.live/play/megapro-202.php?c=350|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",RedBull
+https://blackghost.live/play/megapro-202.php?c=351|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Real Madrid tv
+https://blackghost.live/play/megapro-202.php?c=352|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",UFC TV
+https://blackghost.live/play/megapro-202.php?c=353|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Bitme
+https://blackghost.live/play/megapro-202.php?c=354|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Locomotion
+https://blackghost.live/play/megapro-202.php?c=355|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",movistar liga de Campeones
+https://blackghost.live/play/megapro-202.php?c=357|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",nueve mx
+https://blackghost.live/play/megapro-202.php?c=356|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",ISAT
+https://blackghost.live/play/megapro-202.php?c=369|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Film&Arts
+https://blackghost.live/play/megapro-202.php?c=370|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Syfy
+https://blackghost.live/play/megapro-202.php?c=371|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Ultra Tainment
+https://blackghost.live/play/megapro-202.php?c=373|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Win Sports+
+https://blackghost.live/play/megapro-202.php?c=374|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | Las Estrellas -2
+https://blackghost.live/play/megapro-202.php?c=375|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | EDUCA canal 1
+https://blackghost.live/play/megapro-202.php?c=376|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | EDUCA canal 2
+https://blackghost.live/play/megapro-202.php?c=377|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | EDUCA canal 3
+https://blackghost.live/play/megapro-202.php?c=378|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",MX | EDUCA canal 4
+https://blackghost.live/play/megapro-202.php?c=379|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Lazy Town
+https://blackghost.live/play/megapro-202.php?c=235|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Barnie y sus amigos
+https://blackghost.live/play/megapro-202.php?c=236|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Dora la exploradora
+https://blackghost.live/play/megapro-202.php?c=237|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",PJ Masks
+https://blackghost.live/play/megapro-202.php?c=238|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",caillou
+https://blackghost.live/play/megapro-202.php?c=239|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Jorge el Curioso
+https://blackghost.live/play/megapro-202.php?c=240|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",peppa pig
+https://blackghost.live/play/megapro-202.php?c=241|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",happy tree friends
+https://blackghost.live/play/megapro-202.php?c=242|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Los picapiedras
+https://blackghost.live/play/megapro-202.php?c=243|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Le temes a la oscuridad
+https://blackghost.live/play/megapro-202.php?c=244|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Pantera Rosa 80s
+https://blackghost.live/play/megapro-202.php?c=245|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Correcaminos
+https://blackghost.live/play/megapro-202.php?c=246|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Power Rangers
+https://blackghost.live/play/megapro-202.php?c=247|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Cuentos Hermanos Grimm
+https://blackghost.live/play/megapro-202.php?c=248|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Robotech
+https://blackghost.live/play/megapro-202.php?c=249|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Estrenos 2018
+https://blackghost.live/play/megapro-202.php?c=250|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",El Chapulin Colorado
+https://blackghost.live/play/megapro-202.php?c=251|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Death Note
+https://blackghost.live/play/megapro-202.php?c=252|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",CSI Miami
+https://blackghost.live/play/megapro-202.php?c=253|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Alf
+https://blackghost.live/play/megapro-202.php?c=254|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",X-men 90s
+https://blackghost.live/play/megapro-202.php?c=255|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Vete a la Versh
+https://blackghost.live/play/megapro-202.php?c=256|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",The Walking Dead
+https://blackghost.live/play/megapro-202.php?c=257|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Super campeones
+https://blackghost.live/play/megapro-202.php?c=258|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",strangerthings
+https://blackghost.live/play/megapro-202.php?c=259|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Spiderman 80s
+https://blackghost.live/play/megapro-202.php?c=260|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Sounth Park
+https://blackghost.live/play/megapro-202.php?c=261|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Smallville
+https://blackghost.live/play/megapro-202.php?c=262|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Shera
+https://blackghost.live/play/megapro-202.php?c=263|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Señor de los cielos
+https://blackghost.live/play/megapro-202.php?c=264|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Sailormoon
+https://blackghost.live/play/megapro-202.php?c=265|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Pokemon
+https://blackghost.live/play/megapro-202.php?c=266|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Pinky y Cerebro
+https://blackghost.live/play/megapro-202.php?c=267|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Peliculas Terror
+https://blackghost.live/play/megapro-202.php?c=268|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Pablo Escobar
+https://blackghost.live/play/megapro-202.php?c=269|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Naruto
+https://blackghost.live/play/megapro-202.php?c=270|User-Agent=tpro
+#EXTINF:-1 group-title="Lista 03",Mazinger Z
+https://blackghost.live/play/megapro-202.php?c=271|Use
